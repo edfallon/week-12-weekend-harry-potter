@@ -1,0 +1,35 @@
+body{
+  background-image: url("http://simplywallpaper.net/pictures/2010/10/02/Dumbledores-Office.jpg");
+  background-size: 100%;
+
+  background-repeat: no-repeat;
+}
+
+h1{
+  color: palegoldenrod;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+
+
+ul{
+  text-align: center;
+
+}
+
+ul li{
+  font-family: fantasy;
+  font-size: 30px;
+  color: palegoldenrod;
+  list-style-type: none;
+
+}
+
+select{
+  font-family: fantasy;
+  font-size: 30px;
+  background-color: palegoldenrod;
+  display: inline-block;
+}
